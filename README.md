@@ -4,7 +4,7 @@ Dodge falling meteors in the exhilarating Meteor Game! ☄️🚀🕹️
 
 ## Play the Game
 
-[Start Dodging](https://aryan0-1maurya.github.io/meteor-game/) 🕹️
+[Start Dodging](https://aryan0-1maurya.github.io/metor-game/) 🕹️
 
 ## About the Project
 
