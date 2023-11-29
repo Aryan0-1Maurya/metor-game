@@ -1,0 +1,93 @@
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
+
+body {
+    margin:0;
+    padding:0;
+}
+canvas{
+    background-color:#000;
+    position:fixed;
+}
+p{
+    position:fixed;
+    color:#fff;
+    top:0;
+    left:0;
+    font-weight:bold;
+}
+#player{
+    height:30px;
+    width:30px;
+    border-radius:100%;
+    background-color:red;
+    position:fixed;
+    bottom:50px;
+    left:50px;
+}
+#card{
+    display:none;
+}
+#card{
+    height:100vh;
+    width:100vw;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.card{
+    height:360px;
+    width:300px;
+    background-color:#dadada;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+    border-radius:20px;
+}
+.card p{
+    color:#000;
+    position:relative;
+    font-size:20px;
+    font-weight:bold;
+    
+}
+#btn{
+    font-size:20px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-weight:bold;
+    height:40px;
+    width:100px;
+    background-color:red;
+    border-radius:8px;
+}
+#sco{
+    display:none;
+}
+
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
